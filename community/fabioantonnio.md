@@ -1,6 +1,6 @@
 
 
-# - 👋 Olá! Meu nome é Fábio!
+# - 👋 Olá! Meu nome é Fábio (fabioantonnio)!
 
 - Sou apaixonado por tecnologia, gosto de programar e estou aprendendo muito na área.
 
